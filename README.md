@@ -37,3 +37,6 @@ Bear Case:
 Excel (DCF modeling, scenario & sensitivity analysis)
 Corporate finance & equity research
 Forecasting & financial statement analysis
+
+<img width="1797" height="643" alt="image" src="https://github.com/user-attachments/assets/81ff3d1b-2a7d-4eab-afda-8169839e82de" />
+
